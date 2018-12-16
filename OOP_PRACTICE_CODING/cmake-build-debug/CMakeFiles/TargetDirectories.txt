@@ -1,0 +1,3 @@
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_PRACTICE_CODING/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_PRACTICE_CODING/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_PRACTICE_CODING/cmake-build-debug/CMakeFiles/OOP_PRACTICE_CODING.dir

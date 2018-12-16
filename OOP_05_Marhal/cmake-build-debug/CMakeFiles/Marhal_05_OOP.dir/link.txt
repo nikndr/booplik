@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Marhal_05_OOP.dir/main.cpp.o CMakeFiles/Marhal_05_OOP.dir/Date.cpp.o  -o Marhal_05_OOP 

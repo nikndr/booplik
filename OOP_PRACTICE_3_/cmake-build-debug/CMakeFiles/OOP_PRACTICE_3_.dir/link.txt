@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/OOP_PRACTICE_3_.dir/main.cpp.o CMakeFiles/OOP_PRACTICE_3_.dir/A.cpp.o CMakeFiles/OOP_PRACTICE_3_.dir/B.cpp.o CMakeFiles/OOP_PRACTICE_3_.dir/C.cpp.o CMakeFiles/OOP_PRACTICE_3_.dir/D.cpp.o CMakeFiles/OOP_PRACTICE_3_.dir/aggregate.cpp.o  -o OOP_PRACTICE_3_ 

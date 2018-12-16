@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/ArrayQueue/ArrayQueue.h
+iostream
+-
+vector
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/ArrayQueue/main.cpp
+iostream
+-
+ArrayQueue.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/ArrayQueue/ArrayQueue.h
+

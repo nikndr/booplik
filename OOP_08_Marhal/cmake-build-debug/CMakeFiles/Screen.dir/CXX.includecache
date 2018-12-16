@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_08_Marhal/Screen.cpp
+Screen.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_08_Marhal/Screen.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_08_Marhal/Screen.h
+iostream
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_08_Marhal/main.cpp
+iostream
+-
+Screen.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_08_Marhal/Screen.h
+

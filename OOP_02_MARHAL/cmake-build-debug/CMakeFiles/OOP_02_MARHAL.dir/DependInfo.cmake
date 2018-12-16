@@ -1,0 +1,23 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/main.cpp" "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/cmake-build-debug/CMakeFiles/OOP_02_MARHAL.dir/main.cpp.o"
+  "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/point.cpp" "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/cmake-build-debug/CMakeFiles/OOP_02_MARHAL.dir/point.cpp.o"
+  "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/segment.cpp" "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/cmake-build-debug/CMakeFiles/OOP_02_MARHAL.dir/segment.cpp.o"
+  "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/test.cpp" "/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/cmake-build-debug/CMakeFiles/OOP_02_MARHAL.dir/test.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "AppleClang")
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

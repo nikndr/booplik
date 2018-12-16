@@ -1,0 +1,15 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/nickmarhal/CLionProjects/BOOPLIK/OOP_01_MARHAL
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    .idea/test.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: OOP_01_MARHAL
+CMake Error: Cannot determine link language for target "OOP_01_MARHAL".
+-- Generating done
+-- Build files have been written to: /Users/nickmarhal/CLionProjects/BOOPLIK/OOP_01_MARHAL/cmake-build-debug

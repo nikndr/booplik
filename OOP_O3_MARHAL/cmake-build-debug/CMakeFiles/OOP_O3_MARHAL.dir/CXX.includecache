@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/ACOMPLEX.cpp
+AComplex.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/AComplex.h
+TComplex.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/TComplex.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/AComplex.h
+iostream
+-
+cmath
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/TComplex.cpp
+AComplex.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/AComplex.h
+TComplex.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/TComplex.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/TComplex.h
+iostream
+-
+cmath
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/main.cpp
+iostream
+-
+AComplex.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/AComplex.h
+TComplex.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_O3_MARHAL/TComplex.h
+

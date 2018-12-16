@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/main.cpp
+iostream
+-
+test.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/test.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/point.cpp
+cmath
+-
+point.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/point.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/point.h
+iostream
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/segment.cpp
+cmath
+-
+segment.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/segment.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/segment.h
+iostream
+-
+point.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/point.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/test.cpp
+segment.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/segment.h
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_02_MARHAL/test.h
+

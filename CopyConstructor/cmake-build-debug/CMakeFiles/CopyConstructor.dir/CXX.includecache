@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/CopyConstructor/1.h
+string
+-
+iostream
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/CopyConstructor/main.cpp
+1.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/CopyConstructor/1.h
+

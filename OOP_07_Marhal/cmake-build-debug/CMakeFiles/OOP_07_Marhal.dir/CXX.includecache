@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_07_Marhal/String.cpp
+String.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_07_Marhal/String.h
+utility
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_07_Marhal/String.h
+string
+-
+iostream
+-
+
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_07_Marhal/main.cpp
+iostream
+-
+String.h
+/Users/nickmarhal/CLionProjects/BOOPLIK/OOP_07_Marhal/String.h
+
